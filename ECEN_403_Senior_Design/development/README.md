@@ -1,1 +1,1 @@
-Project source code held in <a src="https://github.com/JasonGilman18/Aerial-Pathfinding-Reconnaissance-System">my personal APRS repository</a> and <a src="https://github.tamu.edu/jasongilman/Aerial-Pathfinding-Reconnaissance-System">team APRS repository</a>
+Project source code held in <a href="https://github.com/JasonGilman18/Aerial-Pathfinding-Reconnaissance-System">my personal APRS repository</a> and <a href="https://github.tamu.edu/jasongilman/Aerial-Pathfinding-Reconnaissance-System">team APRS repository</a>

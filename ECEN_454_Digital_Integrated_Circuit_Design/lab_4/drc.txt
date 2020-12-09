@@ -1,0 +1,57 @@
+DRC started at Wed Oct  7 20:38:51 2020
+
+Validating hierarchy instantiation for:
+library: Design
+cell:    1-bit-adder
+view:    layout
+Rules come from library NCSU_TechLib_tsmc02.
+Rules path is divaDRC.rul.
+Inclusion limit is set to 1000.
+Parsing drcExtractRules of "/opt/coe/ncsu/ncsu-cdk-1.6.0.beta/lib/NCSU_TechLib_tsmc02/divaDRC.rul"...
+Optimizing rules...
+removing unused task: nwellResEdge = geomGetEdge(nwellRes coincident nwell)
+removing unused task: polyResEdge = geomGetEdge(polyRes coincident poly)
+removing unused task: sGateWidthCheckEdge = geomGetEdge(sGateWidthCheck)
+removing unused task: metalcapEdge = geomGetEdge(metalcap)
+removing unused task: padEdge = geomGetEdge(pad)
+removing unused task: ccEdge = geomGetEdge(cc)
+removing unused task: gselectEdge = geomGetEdge(gselect)
+removing unused task: gwellEdge = geomGetEdge(gwell)
+removing unused task: nwellRes = geomButting(geomAnd(res_id nwell) nBulk (keep == 2))
+removing unused task: polyRes = geomButting(geomAndNot(geomAnd(res_id poly) polySRes) fieldPoly (keep == 2))
+removing unused task: sGateWidthCheck = geomSize(geomSize(geomAnd(Gate sblock) -2.9) 2.9)
+removing unused task: NwPdiode = geomAnd(dio_id geomOutside(nwell pNotOhmic))
+removing unused task: PNdiode = geomAnd(dio_id geomOutside(pNotOhmic poly))
+removing unused task: NPdiode = geomAnd(dio_id geomOutside(nNotOhmic poly))
+removing unused task: m6m5Cap = geomAnd(geomAnd(metal5 metal6) cap_id)
+removing unused task: m5m4Cap = geomAnd(geomAnd(metal4 metal5) cap_id)
+removing unused task: m4m3Cap = geomAnd(geomAnd(metal3 metal4) cap_id)
+removing unused task: m3m2Cap = geomAnd(geomAnd(metal2 metal3) cap_id)
+removing unused task: m2m1Cap = geomAnd(geomAnd(metal1 metal2) cap_id)
+removing unused task: m1sCap = geomAnd(geomAndNot(metal1 poly) cap_id)
+removing unused task: m1pCap = geomAnd(geomAnd(poly metal1) cap_id)
+removing unused task: pChannelTran = geomAndNot(pChannelTran hvpChannelTran)
+removing unused task: hvpChannelTran = geomAnd(pChannelTran tactive)
+removing unused task: nChannelTran = geomAndNot(nChannelTran hvnChannelTran)
+removing unused task: hvnChannelTran = geomAnd(nChannelTran tactive)
+removing unused task: pChannelCap = geomButting(pChannel pDiff (keep == 1))
+removing unused task: nChannelCap = geomButting(nChannel nDiff (keep == 1))
+removing unused task: pChannelTran = geomButting(pChannel pDiff (keep == 2))
+removing unused task: nChannelTran = geomButting(nChannel nDiff (keep == 2))
+removing unused task: Space = geomNot(geomOr(active poly))
+removing unused task: pChannel = geomAnd(pNotOhmic poly)
+removing unused task: nChannel = geomAnd(nNotOhmic poly)
+removing unused task: dio_id = geomOr("dio_id")
+removing unused task: cap_id = geomOr("cap_id")
+removing unused task: nolpe = geomOr("nolpe")
+removing unused task: bkgnd = geomBkgnd()
+warn:   Duplicate check "(SCMOS Rule 20.9) sblock enclosure of poly resistor: 0.20 um" is being ignored.
+warn:   Duplicate check "(SCMOS Rule 26.2) metal5 width: 0.30 um" is being ignored.
+Running layout DRC analysis
+Flat mode
+Full checking.
+DRC started.......Wed Oct  7 20:38:51 2020
+    completed ....Wed Oct  7 20:38:51 2020
+    CPU TIME = 00:00:00  TOTAL TIME = 00:00:00
+*********   Summary of rule violations for cell "1-bit-adder layout"   *********
+   Total errors found: 0

@@ -1,0 +1,1 @@
+MobileAtlasCreator program used to create mapping image assets

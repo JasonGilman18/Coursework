@@ -1,0 +1,91 @@
+@(#)$CDS: LVS version 6.1.8-64b 08/04/2020 19:19 (cpgsrv11) $
+
+Command line: /opt/coe/cadence/IC618/tools.lnx86/dfII/bin/64bit/LVS -dir /home/ugrads/j/jasongilman/ecen454/LVS -l -s -t /home/ugrads/j/jasongilman/ecen454/LVS/layout /home/ugrads/j/jasongilman/ecen454/LVS/schematic
+Like matching is enabled.
+Net swapping is enabled.
+Using terminal names as correspondence points.
+Compiling Diva LVS rules...
+
+    Net-list summary for /home/ugrads/j/jasongilman/ecen454/LVS/layout/netlist
+       count
+        4               nets
+        4               terminals
+        1               pmos
+        1               nmos
+
+    Net-list summary for /home/ugrads/j/jasongilman/ecen454/LVS/schematic/netlist
+       count
+        4               nets
+        4               terminals
+        1               pmos
+        1               nmos
+
+
+    Terminal correspondence points
+    N1        N1        GND
+    N3        N2        VDD
+    N2        N3        input
+    N0        N0        output
+
+Devices in the netlist but not in the rules:
+        pcapacitor
+Devices in the rules but not in the netlist:
+        cap nfet pfet nmos4 pmos4
+
+The net-lists match.
+
+                             layout  schematic
+                                instances
+        un-matched              0       0      
+        rewired                 0       0      
+        size errors             0       0      
+        pruned                  0       0      
+        active                  2       2      
+        total                   2       2      
+
+                                  nets
+        un-matched              0       0      
+        merged                  0       0      
+        pruned                  0       0      
+        active                  4       4      
+        total                   4       4      
+
+                                terminals
+        un-matched              0       0      
+        matched but
+        different type          0       0      
+        total                   4       4      
+
+
+Probe files from /home/ugrads/j/jasongilman/ecen454/LVS/schematic
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:
+
+
+Probe files from /home/ugrads/j/jasongilman/ecen454/LVS/layout
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:

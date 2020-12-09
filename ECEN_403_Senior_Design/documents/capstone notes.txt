@@ -1,0 +1,310 @@
+plan
+
+1) user plots A and B on google map api for drone flight. show coordinates in output window
+2) user pushes button to upload instructions to drone. this will connect to the drones wifi and send a POST method to the drones server.
+3) user pushes launch button. connect to the drones wifi and send POST method saying being flight.
+4) upon drones return, user pushes button to download flight data. This connects to drone's network and sends GET method to drones server.
+5) user pushes button to start software analysis. checks to see if wifi is availible if it is try olympus server code. if not run locally (import python script).
+6) when software is done, user pushes button to upload navigation instructions to land vehicle. connect to land vehicles network and POST method to server.
+7) when user clicks launch, land vehicle will be sent on its way. POST command on land vehicle's network.
+
+
+
+
+Presentation Notes:
+
+Alright... anyone interested in tech knows that the popularity of autonomous vehicles has been increasing in the past decade 
+although, autonomous vehicles currently suffer from several issues:
+
+ground vehicles rely on expensive sensors to maintain autonomy, and aerial drones lack the ability to transport cumbersome loads.
+
+The purpose of this project is to propose a hybrid solution to solve many of these issues.
+
+Combining the strenghts of each type of autonomous vehicle, allows us to minimize the issues related to these individual systems.
+
+
+
+
+
+Our system is made up of a few devices: the aerial drone, land drone, and the user's computer with our software installed. My subsystem is all about networking these devices togther.
+
+So, the whole system will be controlled through a desktop application on the user's computer. so things like picking the area that will be mapped, lauching the drone, 
+suspending the system, or running the software analysis will all happen through the desktop application.
+
+To facilitate communication between the devices, wireless local area networks will be used.
+
+Each drone will have a wifi module (ESP8266 low cost wifi module) that allows it to broadcast a wifi signal, and the microcontrollers onboard the drones will act as
+servers such that communication will be through standard HTTP methods.
+
+Whenever data needs to be sent or recieved from the drones, such as sending navigation instructions or extracting video data from the drone's flight,
+the desktop app will connect to the network that is hosted on the drone.
+
+After the mapping data has been collected and communicated to the desktop app the user has two options when running the computer vision and pathfinding software that mark and max explained.
+the user can offload the software analysis to TAMU GPU servers or they can run it locally on their machine.
+Although in order to utilize the GPU servers, the user must have an internet connection availible wherever their machine is located.
+
+
+
+
+
+STATUS UPDATE PRESENTATION:
+
+
+my subsystem was to create a desktop app that serves as the systems UI and the central node in the systems network
+
+So in the last few weeks,  I was able to setup the architecture of the application, using a front-end framework 
+to handle the UI navigation and python to setup the backend.
+
+I have also written logic for each stage of our system so that there is error handling and status updates 
+through the UI. just in case the user inputs something incorrectly or needs to change something
+
+An important part of what I did in the last few weeks was create the mapping tool for our system.
+In an early stage, the user will need to define the area that will be mapped by the aerial drone.
+When the user selects a valid area, the app will generate navigation instructions for the aerial drone 
+based on latitude, longitude, and elevation data that I have stored.
+
+The mapping tool acts similar to google maps, but it has added funcitonality relavent to our system and 
+has the advantage that 
+All of the assets are offline, so the images and location data can all be accessed from remote locations
+
+In the next few weeks, I will begin to work on establishing communication between the desktop application and the drones.
+This will require me to set up REST apis on the drones and write logic in the desktop app to to send information to those devices.
+
+
+
+
+
+
+So here is our execution plan
+
+we each created milestonea for the differenct stages of our subsystem's development.
+so far everyone is up to date on their milestones
+we track the progress of the overall project here as it is easy where deadlines are, or if someone is falling behind
+
+
+
+
+
+this is our validation plan
+so we created unit tests that follow a similar timeline to the milestones in the execution plan
+so far everyone is up to date with their tests, so we have not had to deal with any subsystem falling behind.
+
+
+
+
+
+
+FINAL PRESESNTATION:
+
+
+Hi we are team 2 and we are working on the Aerial Pathfinding Reconnaissance System.
+We'd like to show you the progress of each of our subsystems, but to start Mark is going to give a short overview of our project.
+
+
+
+
+
+
+So my subsystem was all about creating a desktop application that is going to serve as the UI for our system.
+all system operation, networking, and interaction will happen through this app.
+
+The user will be able to select and map the area of operation for the system through a mapping utility availible in the UI.
+and From the selected area, navigation instructions will be built from the area's geographical coordinates.
+With the click of a button, the app automaticly connects to the drone's network to complete any required communication.
+The UI also has an error handling system that prevents the user from doing things out of order, for example like attempting to upload the navigation instructions before even creating them.
+Additionally, all of the functinoality is availible offline, so the system can be operated from a remote location.
+
+
+Besides working on the desktop application, I was able to complete the implementation of the aerial drone's server.
+To do this, I configured the onboard raspi as a wireless access point, and I set a lightweight web-server to run in the background as a service.
+This allows the desktop application to connect and communicate any neccisary information for the system's operation.
+
+Ultimately, there will be another server onboard the land drone, with the exact same parts and implementation.
+
+
+
+
+while developing the desktop app and drone server, I measured the response times when communicating between the two.
+I used the measurments as a validation test to ensure the proper operation was occuring.
+
+Also, I captured an example file containing the navigation instructions.
+The instructions are made up of the altitude at which the drone shall fly, and waypoints where the drone shall fly to.
+
+
+
+In my demo, I plan to show the general operation of the desktop application, the mapping utility, and how the generated instruction set is communicated to the drone.
+To show off the edge cases I covered, I will demonstrate the error handling process, and the differences between offline and online operation.
+
+
+
+
+show demo
+technical merits
+problems with it
+
+show functional system requirements (Make changes to fsr icd before hand)
+show tests that validate ^ (how you conducted the test and present the result)
+(can show the validation table and talk about it) (try and show the live validations if possible)
+
+if anyhting is lacking or not working
+^ explain how you will fix in 404
+
+
+60% demo
+40% validation/improvement
+
+
+make sure to append git repo to final report
+
+
+
+
+DEMO:
+
+
+functionality
+
+			
+My subsystem was to netrowk our systems deivces and create a UI
+
+The application is orgainized into several steps, each crucial to the systems operation.
+
+The first step just shows some instructions for the application.
+
+
+step2
+In the second step, the user is able to select the mapping area of the system. This area will define the aerial drone and land drone's operating area.
+
+An important aspect of our system is that it may need to run from a remote location, so all functionality needs to be availible offline
+
+Before mapping the area of operation, the user must report there location. there are offline and online options availible.
+
+Once the user's location is reported, we show a map of the user's surrounding area. All of the map assets like the images shown and the data like the latitude and longitude of each spot on the map
+is availible offline, and is served from the backend of this application.
+
+As defined in our FSR's functional requirements, the total mapping area should be no greater than 1 sq km. To validate the users input, I created a algorithm to only allow selections of less than 1 sq km.
+
+Once the area is selected, I wrote an algorithm to break this area down into a grid based on latitude and longitute coordinates.
+The grid is divided into quadrants based on the limitations of the camera onboard the aerial drone, and the altitude at which the drone is flying.
+For each quadrant in the grid, a waypoint is created, which will serve as the aerial drone's navigation instructions.
+Based on preliminary measurements of the cameras limitations, the waypoints are spaced by about 8 meters, when the drone is flying at an altidue of 10 meters.
+
+this is the waypoint file that is sent to the drone.
+
+
+step3
+All of the following steps show the networking functionality of this application. They all act in similar ways, although the differ in the process and communication that is occuring.
+
+All of the communication between the UI and the drones occurs through HTTP Methods over a wireless local network. The drones have raspis configured with web server software that I wrote.
+
+In this step, the waypoint file is sent to the aerial drone.
+
+And in this step, the drones flight is launched.
+
+
+
+I will now show the error handling process in the application.
+
+the system cannot proceed if a previous step is not completed. When any incorrect process occurs, 
+an error is reported to the user to suggest what they can do to fix it.
+
+for exmple if i want to begin the software analysis on the drone's collected video before downloading the video data, the application will present an error.
+
+Beyond handling step compeletion, input validation is also handled, specifically on the mapping step.
+
+
+
+Going into next semester, my work will focus on integrating my teamates systems into this application.
+
+Next semester I will be adding functionality to the drone's servers based on details my teammates have specified. I will also be integrating my teamates software into this UI, so that the errors that
+may be reported in there software can be shown in the UI.
+
+I will now show that my subsytem meets the system's defined functional and validation requirements.
+
+
+
+
+
+My subsystem's work comprised mostly of sofware development. These are the system functional requirements defined in the FSR for software.
+
+Here I am showing some code from the aerial drone's server. This code is written in python and follows the PEP 8 style guide and commeting scheme defined in the FSR.
+And as I have shown, error handling is present throughout the UI application.
+
+
+
+Here are the validation tests that i defined for my subsystem at the begining of the semester.
+
+For the networking validation tests, I was able to capture packet size and latency from the application's console. To obtain the values reported in the validation table, I ran tests multiple times to achieve average 
+latency times, and packet sizes.
+
+
+Besides integrating my teamates software into mine in the next semester, I may need to look at ways to optimize packet size, especially if our video data becomes large files. This would allow for quicker trasmission and stability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

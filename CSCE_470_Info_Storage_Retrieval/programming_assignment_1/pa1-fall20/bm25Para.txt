@@ -1,0 +1,7 @@
+titleweight 0.9
+bodyweight 0.1
+btitle 0.9
+bbody 0.1
+k1 10.0
+pageRankLambda 0.9
+pageRankLambdaPrime 0.9

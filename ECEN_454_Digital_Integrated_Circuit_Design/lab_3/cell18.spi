@@ -1,0 +1,41 @@
+//Spice netlist for an inverter 
+simulator lang=spectre
+subckt IV (input output VDD VSS)
+        parameters wp=0.6u lp=0.2u wn=0.3u ln=0.3u              
+        M1 output input VDD VDD tsmc18P w=wp l=lp
+        M2 output input VSS VSS tsmc18N w=wn l=ln
+ends IV
+
+subckt NAND2 (input_A input_B output VDD VSS)
+	parameters wp=.65u lp=.2u wn=.3u ln=.3u
+
+	;copy configuration from lab 2
+	;parameters defines width and length for below
+	;tsmc18P for PMOS
+	;tsmc18N for NMOS
+
+	M1 output input_A VDD VDD tsmc18P w=wp l=lp
+	M2 output input_B VDD VDD tsmc18P w=wp l=lp
+	M3 output input_A wire1 VSS tsmc18N w=wn l=ln
+	M4 wire1 input_B VSS VSS tsmc18N w=wn l=ln
+ends NAND2
+
+subckt XOR2 (input_A input_B output VDD VSS)
+	parameters wp=.9u lp=.2u wn=.3u ln=.3u
+
+	;2 transistors per inverter
+	M1 inv_A input_A VDD VDD tsmc18P w=wp l=lp
+	M2 inv_A input_A VSS VSS tsmc18N w=wn l=ln
+	M3 inv_B input_B VDD VDD tsmc18P w=wp l=lp
+	M4 inv_B input_B VSS VSS tsmc18N w=wn l=ln
+	
+	;copy schematic from lab2
+	M5 wire1 input_B VDD VDD tsmc18P w=wp l=lp
+	M6 output inv_A wire1 VDD tsmc18P w=wp l=lp
+	M7 wire2 inv_B VDD VDD tsmc18P w=wp l=lp
+	M8 output input_A wire2 VDD tsmc18P w=wp l=lp
+	M9 output inv_A wire3 VSS tsmc18N w=wn l=ln
+	M10 wire3 inv_B VSS VSS tsmc18N w=wn l=ln
+	M11 output input_A wire4 VSS tsmc18N w=wn l=ln
+	M12 wire4 input_B VSS VSS tsmc18N w=wn l=ln
+ends XOR2

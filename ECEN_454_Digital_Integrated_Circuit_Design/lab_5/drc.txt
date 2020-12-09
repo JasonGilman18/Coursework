@@ -1,0 +1,74 @@
+Validating hierarchy instantiation for:
+library: Design
+cell:    4-bit-adder
+view:    layout
+Rules come from library NCSU_TechLib_tsmc02.
+Rules path is divaDRC.rul.
+Inclusion limit is set to 1000.
+Running layout DRC analysis
+Flat mode
+Full checking.
+DRC started.......Tue Oct 13 13:46:21 2020
+    completed ....Tue Oct 13 13:46:21 2020
+    CPU TIME = 00:00:00  TOTAL TIME = 00:00:00
+*********   Summary of rule violations for cell "4-bit-adder layout"   *********
+   Total errors found: 0
+
+Getting layout propert bagGetting layout propert bag
+
+Extraction started at Tue Oct 13 13:47:41 2020
+
+Validating hierarchy instantiation for:
+library: Design
+cell:    4-bit-adder
+view:    layout
+Rules come from library NCSU_TechLib_tsmc02.
+Rules path is divaEXT.rul.
+Inclusion limit is set to 1000.
+Parsing drcExtractRules of "/opt/coe/ncsu/ncsu-cdk-1.6.0.beta/lib/NCSU_TechLib_tsmc02/divaEXT.rul"...
+ivIf( (switch "drc?")
+info: If short location check is desired later on, check the saveInterconnect
+ statement for correctness:
+ Interconnect layer nwell, pwell, pBulk, via5metalcap, metalcap not saved.
+ Interconnect layers merged on save: polySRes, polyRes, nwellRes.
+ Interconnect layers merged on save: cp, pDiffContact, nDiffContact, pOhmicContact, nOhmicContact.
+ Interconnect layers merged on save: pDiff, nDiff, pOhmic, nOhmic.
+ 
+Optimizing rules...
+removing unused task: metal6_ext = geomAnd(metal6 cap_id)
+removing unused task: sGateWidthCheck = geomSize(geomSize(geomAnd(Gate sblock) -2.9) 2.9)
+removing unused task: m6m5Cap = geomAnd(geomAnd(metal5 metal6) cap_id)
+removing unused task: m5m4Cap = geomAnd(geomAnd(metal4 metal5) cap_id)
+removing unused task: m4m3Cap = geomAnd(geomAnd(metal3 metal4) cap_id)
+removing unused task: m3m2Cap = geomAnd(geomAnd(metal2 metal3) cap_id)
+removing unused task: m2m1Cap = geomAnd(geomAnd(metal1 metal2) cap_id)
+removing unused task: m1sCap = geomAnd(geomAndNot(metal1 poly) cap_id)
+removing unused task: m1pCap = geomAnd(geomAnd(poly metal1) cap_id)
+removing unused task: pChannelCap = geomButting(pChannel pDiff (keep == 1))
+removing unused task: nChannelCap = geomButting(nChannel nDiff (keep == 1))
+removing unused task: Space = geomNot(geomOr(active poly))
+removing unused task: pad = geomOr(geomAndNot(("pad" "drawing") nodrc))
+removing unused task: glass = geomOr(geomAndNot(("glass" "drawing") nodrc))
+removing unused task: gselect = geomOr(geomAndNot(("gselect" "drawing") nodrc))
+removing unused task: gwell = geomOr(geomAndNot(("gwell" "drawing") nodrc))
+removing unused task: bkgnd = geomBkgnd()
+Running layout Extraction analysis
+flat mode
+Full checking.
+For layer nChannelTran :
+    72  shapes encountered.
+    72  nmos4 ivpcell NCSU_Analog_Parts devices well formed.
+For layer pChannelTran :
+    72  shapes encountered.
+    72  pmos4 ivpcell NCSU_Analog_Parts devices well formed.
+0 cap ivpcell NCSU_Analog_Parts parasitics created.
+0 cap ivpcell NCSU_Analog_Parts parasitics created.
+0 cap ivpcell NCSU_Analog_Parts parasitics created.
+0 cap ivpcell NCSU_Analog_Parts parasitics created.
+0 cap ivpcell NCSU_Analog_Parts parasitics created.
+0 cap ivpcell NCSU_Analog_Parts parasitics created.
+Extraction started.......Tue Oct 13 13:47:41 2020
+           completed ....Tue Oct 13 13:47:41 2020
+    CPU TIME = 00:00:00  TOTAL TIME = 00:00:00
+*********   Summary of rule violations for cell "4-bit-adder layout"   *********
+   Total errors found: 0

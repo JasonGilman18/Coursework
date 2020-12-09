@@ -1,0 +1,18 @@
+
+// Verilog stimulus file.
+// Please do not create a module in this file.
+
+
+// Default verilog stimulus. 
+
+initial
+begin 
+
+   A[3:0] = 4'b0000; B[3:0] = 4'b0000; C = 1'b0;
+   #50 A[3:0] = 4'b1111; B[3:0] = 4'b1111; C = 1'b0;
+   #50 A[3:0] = 4'b1010; B[3:0] = 4'b1010; C = 1'b1;
+   #50 A[3:0] = 4'b0101; B[3:0] = 4'b0101; C = 1'b1;
+end 
+
+initial
+$monitor($time,"A=%b,B=%b,C=%b,SUM=%b,CARRY=%b",A,B,C,SUM,CARRY);

@@ -1,0 +1,1503 @@
+query: campus police incidents 
+  url: http://emergency.stanford.edu/category/alertsu/
+    title: alertsu emergency information
+    debug: Pagerank: 6
+  url: http://emergency.stanford.edu/category/alertsu/info/
+    title: info emergency information
+    debug: Pagerank: 5
+  url: https://police.stanford.edu/pdf/Stanford_CrimeStats2013-2015.pdf
+    title: campus crime statistics 2013 2015
+    debug: Pagerank: 4
+  url: https://police.stanford.edu/security-report.html
+    title: stanford safety security and fire report clery act
+    debug: Pagerank: 5
+  url: http://emergency.stanford.edu/2015/10/police-activity-101715-655-pm/
+    title: police activity 10 17 15 6 55 pm emergency information
+    debug: Pagerank: 4
+  url: http://news.stanford.edu/2016/09/30/safety-security-fire-report/
+    title: stanford releases 2016 safety security and fire report stanford news
+    debug: Pagerank: 1
+  url: http://news.stanford.edu/news/2008/october1/crime-100108.html
+    title: annual police report shows strong enforcement of alcohol laws
+    debug: Pagerank: 0
+  url: http://news.stanford.edu/news/2012/august/campus-police-episode-080312.html
+    title: stanford police reviewing episode involving suspect in custody
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/dept/news/pr/02/batterysuspect612.html
+    title: stern hall prowler matches description of may 25 sexual battery suspect police say 6 02
+    debug: Pagerank: 0
+query: marguerite schedule 
+  url: https://transportation.stanford.edu/marguerite
+    title: marguerite shuttle stanford parking & transportation services
+    debug: Pagerank: 6
+  url: https://transportation.stanford.edu/marguerite/view-maps-and-schedules
+    title: view maps and schedules stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/marguerite/view-maps-and-schedules/limited-holiday-marguerite-shuttle-service
+    title: limited holiday marguerite shuttle service stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/marguerite/view-maps-and-schedules/obtain-printed-map-and-schedule
+    title: obtain a printed map and schedule stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/marguerite/va
+    title: va stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/marguerite/rp
+    title: research park stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/marguerite/slac
+    title: slac stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/marguerite/y
+    title: line y clockwise stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://porterdrivecampus.stanford.edu/neighborhood/transportation-porter-drive
+    title: transportation to porter drive porter drive
+    debug: Pagerank: 4
+  url: https://transportation.stanford.edu/transit/express-bus/dumbarton-express
+    title: dumbarton express stanford parking & transportation services
+    debug: Pagerank: 3
+query: dining meal plan refund 
+  url: https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions
+    title: meal plan frequently asked questions stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans
+    title: graduate and post doc meal plans stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/hospitality/cardinaldollarspecial
+    title: cardinal dollars stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/graduate-gateway
+    title: stanford dining for graduate students stanford r&de
+    debug: Pagerank: 4
+  url: https://summercollege.stanford.edu/gateway/housing-dining
+    title: housing & dining high school summer college
+    debug: Pagerank: 3
+  url: https://summercollege.stanford.edu/gateway/understanding-bill
+    title: understanding the bill high school summer college
+    debug: Pagerank: 3
+  url: https://summercollege.stanford.edu/gateway/tuition-payment
+    title: tuition & payment high school summer college
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/dept/registrar/bulletin0910/4860.htm
+    title: room and meal plan refunds
+    debug: Pagerank: 2
+  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf
+    title: guidebook
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/dept/rde/dining/pdfs/RFRA_2010Guidebook.pdf
+    title: guidebook
+    debug: Pagerank: 0
+query: international student center hours 
+  url: https://international.stanford.edu/
+    title: office of international affairs
+    debug: Pagerank: 6
+  url: https://bechtel.stanford.edu/
+    title: bechtel international center student affairs
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/practical-matters/taxes
+    title: taxes bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/about-us/hours
+    title: hours bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/about-us/appointments
+    title: appointments bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/programs-and-events/events-center
+    title: events at the center bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/coming-stanford/new-student-information/removing-enrollment-hold
+    title: removing the enrollment hold bechtel international center
+    debug: Pagerank: 4
+  url: https://ee.stanford.edu/student-resources/CA-appointments/contact
+    title: contact information for cas stanford ee
+    debug: Pagerank: 4
+  url: https://undergrad.stanford.edu/advising/student-guides/bechtel-international-center
+    title: bechtel international center stanford undergrad
+    debug: Pagerank: 0
+  url: https://summer.stanford.edu/welcomeweekend/
+    title: welcome weekend 2016 stanford summer
+    debug: Pagerank: 0
+query: pool summer opening hours 
+  url: https://web.stanford.edu/dept/IUC/cgi-bin/resources/other-documents/FAQ%209.2016.pdf
+    title: iuc faq 9 2016
+    debug: Pagerank: 5
+  url: http://web.stanford.edu/group/masters/pool.html
+    title: stanford masters swimming pool & parking information
+    debug: Pagerank: 3
+  url: http://outdoored.stanford.edu/center/
+    title: outdoor center adventure programs
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/studenthousing/academic-breaks
+    title: academic breaks stanford r&de
+    debug: Pagerank: 2
+  url: http://large.stanford.edu/publications/coal/references/docs/planyc_progress_report_2009.pdf
+    title: progress report 2009
+    debug: Pagerank: 2
+  url: http://news.stanford.edu/news/2013/august/stanford-youth-orchestra-081513.html
+    title: how do you get to stanford's bing concert hall practice practice
+    debug: Pagerank: 2
+  url: https://law.stanford.edu/environmental-law-clinic/quarterly-updates/
+    title: quarterly updates environmental law clinic stanford law school
+    debug: Pagerank: 2
+  url: https://med.stanford.edu/content/dam/sm/cancer/documents/newsletters/SCI%20News%20Summer%202016.pdf
+    title: stanford cancer institute news
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/dept/news/stanfordtoday/ed/9605/9605sf.html
+    title: 9605sf
+    debug: Pagerank: 0
+query: cs master tuition 
+  url: https://www-cs.stanford.edu/academics/phd/phd-requirements
+    title: phd requirements stanford computer science
+    debug: Pagerank: 5
+  url: http://exploredegrees.stanford.edu/tuitionfeesandhousing/
+    title: tuition fees and housing stanford university
+    debug: Pagerank: 5
+  url: https://web.stanford.edu/dept/registrar/bulletin1112/5254.htm
+    title: master of science in computer science
+    debug: Pagerank: 3
+  url: http://med.stanford.edu/md/mdhandbook/section-7-tuition-and-financial-aid.html
+    title: section 7 tuition and financial aid md program stanford medicine
+    debug: Pagerank: 5
+  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load
+    title: artificial intelligence graduate certificate stanford center for professional development
+    debug: Pagerank: 5
+  url: https://scpd.stanford.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=1285200
+    title: non degree option application stanford center for professional development
+    debug: Pagerank: 5
+  url: https://gradadmissions.stanford.edu/admitted-students/financing-graduate-study/estimated-expense-budget
+    title: estimated expense budget graduate admissions
+    debug: Pagerank: 5
+  url: https://www.gsb.stanford.edu/programs/mba/financial-aid/cost-summary
+    title: cost summary stanford graduate school of business
+    debug: Pagerank: 5
+  url: https://web.stanford.edu/dept/registrar/bulletin1112/4835.htm
+    title: tuition fees and housing
+    debug: Pagerank: 3
+  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861
+    title: computer science ms degree stanford center for professional development
+    debug: Pagerank: 4
+query: 24 hour study rooms 
+  url: https://library.stanford.edu/libraries/lathrop/24-hour-study-room
+    title: 24 hour study room stanford university libraries
+    debug: Pagerank: 6
+  url: http://library.stanford.edu/using/study
+    title: places to study stanford university libraries
+    debug: Pagerank: 6
+  url: http://library.stanford.edu/hours
+    title: library hours
+    debug: Pagerank: 6
+  url: https://library-hours.stanford.edu/?week=2019W24
+    title: library hours
+    debug: Pagerank: 5
+  url: http://news.stanford.edu/2015/11/20/meyer-green-space-112015/
+    title: stanford's newest open space meyer green opens tuesday
+    debug: Pagerank: 3
+  url: https://library.stanford.edu/taxonomy/term/35
+    title: open late stanford university libraries
+    debug: Pagerank: 2
+  url: http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=08-350
+    title: campus access guide
+    debug: Pagerank: 2
+query: stanford ap credit chart 
+  url: https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ap-credit-chart
+    title: ap credit chart registrar's office
+    debug: Pagerank: 5
+  url: https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ib-credit-chart
+    title: ib credit chart registrar's office
+    debug: Pagerank: 5
+  url: https://registrar.stanford.edu/students/enrolling-courses/general-education-breadth-requirements
+    title: general education breadth requirements registrar's office
+    debug: Pagerank: 5
+  url: http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematicalandcomputationalscience/mathematicalandcomputationalscience.pdf
+    title: stanford university
+    debug: Pagerank: 4
+  url: https://undergrad.stanford.edu/advising/freshman/new-student-orientation-nso/placement-tests-and-diagnostics
+    title: placement tests & diagnostics for new students stanford undergrad
+    debug: Pagerank: 4
+  url: https://registrar.stanford.edu/students/transfer-credit/advanced-placement
+    title: advanced placement registrar's office
+    debug: Pagerank: 4
+  url: https://ohs.stanford.edu/about/school-profile
+    title: fast facts & school profile stanford online high school
+    debug: Pagerank: 4
+  url: https://web.stanford.edu/dept/registrar/bulletin1112/4883.htm
+    title: advanced placement
+    debug: Pagerank: 3
+  url: http://web.stanford.edu/group/spa/classes.html
+    title: stanford premedical association
+    debug: Pagerank: 0
+query: stanford dining hall meal plan 
+  url: https://rde.stanford.edu/dining/mealplans
+    title: meal plans stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining
+    title: dining landing page stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/hospitality/cardinaldollarspecial
+    title: cardinal dollars stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/dining-meal-delivery-service
+    title: dining meal delivery service stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/locations-hours
+    title: locations & hours stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans
+    title: graduate and post doc meal plans stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/vegetarian-vegan-dining
+    title: vegetarian & vegan dining stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/halal-options
+    title: halal options stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/my-meal-plan-account
+    title: my meal plan account stanford r&de
+    debug: Pagerank: 3
+  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf
+    title: guidebook
+    debug: Pagerank: 0
+query: stanford tuition tax form 
+  url: http://summer.stanford.edu/faqs/category/university-billing-and-payment/
+    title: university billing and payment stanford summer
+    debug: Pagerank: 5
+  url: http://postdocs.stanford.edu/handbook/taxes.html
+    title: taxes information for postdoctoral scholars information resources & technology irt stanford university school of medicine
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/practical-matters/taxes/general-tax-information
+    title: general tax information bechtel international center
+    debug: Pagerank: 4
+  url: http://financialaid.stanford.edu/aid/tax_info/
+    title: tax information stanford university
+    debug: Pagerank: 4
+  url: https://sfs.stanford.edu/taxes/resources
+    title: 1098 t faq's & resources student financial services
+    debug: Pagerank: 4
+  url: https://gap.stanford.edu/handbooks/gap-handbook/chapter-7/subchapter-3/page-7-3-1
+    title: 7.3 1 assistantships policy graduate academic policies and procedures
+    debug: Pagerank: 4
+  url: https://continuingstudies.stanford.edu/registration-policies/admissions
+    title: registration admissions
+    debug: Pagerank: 4
+  url: https://web.stanford.edu/group/fms/fingate/staff/taxcompliance/tax_concern.html
+    title: gateway to financial activities stanford university staff tax compliance stanford
+    debug: Pagerank: 3
+  url: https://sfs.stanford.edu/taxes
+    title: taxes student financial services
+    debug: Pagerank: 4
+  url: https://web.stanford.edu/group/fms/fingate/staff/supptstudents/res_jobaid.html
+    title: fingate supporting students resources & job aids
+    debug: Pagerank: 3
+query: hoover institute 
+  url: http://library.stanford.edu/libraries/hila/about
+    title: hoover institution archives stanford university libraries
+    debug: Pagerank: 6
+  url: http://library.stanford.edu/libraries/hoover/about
+    title: hoover institution library stanford university libraries
+    debug: Pagerank: 6
+  url: http://hoohila.stanford.edu/friedman/index.php
+    title: collected works of milton friedman
+    debug: Pagerank: 5
+  url: https://www.gsb.stanford.edu/faculty-research/faculty/edward-lazear
+    title: edward lazear stanford graduate school of business
+    debug: Pagerank: 4
+  url: http://news.stanford.edu/news/2011/august/iraq-hoover-archives-080111.html
+    title: the war will never end saddam's regime in hoover institution archives
+    debug: Pagerank: 3
+  url: http://news.stanford.edu/2016/01/14/golden-state-poll-011416/
+    title: californians most concerned about drought and state's economy stanford poll shows
+    debug: Pagerank: 2
+  url: http://news.stanford.edu/thedish/2015/09/21/media-roundtable-at-stanfords-hoover-institution-provides-opportunity-to-think-beyond-the-sound-bite/
+    title: media roundtable at stanford's hoover institution provides opportunity to think beyond the sound bite the dish
+    debug: Pagerank: 2
+  url: http://news.stanford.edu/2015/02/20/hoover-director-annouce-022015/
+    title: thomas gilligan will lead stanford's hoover institution
+    debug: Pagerank: 1
+  url: http://news.stanford.edu/news/2007/november14/raisian-111407.html
+    title: hoover institution director explains defends appointment of rumsfeld
+    debug: Pagerank: 1
+  url: http://news.stanford.edu/thedish/2015/10/19/stanford-scholars-pen-books-on-financial-reform-sakharov/
+    title: stanford scholars contribute to books published by the hoover institution press the dish
+    debug: Pagerank: 1
+query: stanford parking permits 
+  url: https://transportation.stanford.edu/
+    title: stanford parking & transportation services
+    debug: Pagerank: 6
+  url: https://transportation.stanford.edu/parking/learn-about-vehicle-policies/rules-and-regulations
+    title: rules and regulations stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/parking/purchase-a-parking-permit/how-to-purchase
+    title: how to purchase stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/parking/purchase-a-parking-permit/commuters
+    title: commuters stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/about/contact
+    title: contact p&ts stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/parking/purchase-a-parking-permit/permit-prices-2016-17
+    title: 2016 17 permit prices stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/parking/deal-with-parking-tickets/parking-permit-fundamentals
+    title: what to do about lost stolen permits stanford parking & transportation services
+    debug: Pagerank: 5
+  url: http://postdocs.stanford.edu/incoming_scholars/upon_arrival.html
+    title: first things first checklist for new postdoctoral scholars information for postdoctural scholars information resources & technology irt stanford university school of medicine
+    debug: Pagerank: 5
+  url: https://pmplus.stanford.edu/pats/transportation/tour/
+    title: access request for tours and large groups
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/orders/
+    title: order or apply
+    debug: Pagerank: 4
+query: stanford housing cost 
+  url: http://exploredegrees.stanford.edu/tuitionfeesandhousing/
+    title: tuition fees and housing stanford university
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/studenthousing
+    title: student housing stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/undergraduate-meal-plans
+    title: undergraduate meal plans stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/studenthousing/rates-billing
+    title: housing rates and billing information stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/summer-rates-single-undergraduates
+    title: summer rates for single undergraduates stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/mealplans
+    title: meal plans stanford r&de
+    debug: Pagerank: 5
+  url: https://www.gsb.stanford.edu/programs/mba/financial-aid/cost-summary
+    title: cost summary stanford graduate school of business
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/studenthousing/single-graduate-housing
+    title: single graduate housing stanford r&de
+    debug: Pagerank: 2
+  url: https://rde.stanford.edu/studenthousing/incoming-undergraduate-summer-visitors-housing-rates
+    title: incoming undergraduate summer visitors housing rates stanford r&de
+    debug: Pagerank: 2
+query: piazza registration without stanford email 
+  url: http://web.stanford.edu/class/cs246/faq.html
+    title: stanford cs246 faq
+    debug: Pagerank: 4
+  url: http://cs228.stanford.edu/
+    title: cs 228 probabilistic graphical models
+    debug: Pagerank: 4
+  url: http://snap.stanford.edu/class/cs224w-2013/faq.html
+    title: stanford cs224w faq
+    debug: Pagerank: 3
+  url: http://web.stanford.edu/~rjohari/teaching/syllabus/221_syllabus_2016.pdf
+    title: management science and engineering 221 stochastic modeling
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/class/stats202/scpd.html
+    title: stats 202 stanford university
+    debug: Pagerank: 3
+  url: http://snap.stanford.edu/class/cs246-2014/faq.html
+    title: stanford cs246 faq
+    debug: Pagerank: 3
+  url: http://alumni.stanford.edu/content/travel-study/brochures/2017/italy_2017_06.pdf
+    title: the italian riviera tuscanyand rome
+    debug: Pagerank: 1
+  url: https://alumni.stanford.edu/get/page/travel-study/trip/?ciid=23987
+    title: trip details travel study stanford alumni association
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/class/me328/syllabus.pdf
+    title: me 328 medical robotics syllabus as of september 24 2016 autumn quarter 2016 course times locations lectures mondays and w
+    debug: Pagerank: 0
+  url: https://lagunita.stanford.edu/courses/StanfordOnline/OpenEdX/Demo/courseware/8c8d6d5d907047db917640a192ff1251/6eda8cc681124a1a8184bdcbf170687f/
+    title: further information more about html components feature courseware stanford lagunita
+    debug: Pagerank: 0
+query: football schedule 
+  url: http://pgnet.stanford.edu/home/rta/click?rtaCode=8205&rtaTcode=987473&rtaTarget=http://www.gostanford.com/sports/2015/1/25/208602060.aspx%3Futm_source%3DSAA%26utm_medium%3DHomepage%26utm_campaign%3D%26utm_content%3D
+    title: stanford football central tickets gostanford com stanford athletics
+    debug: Pagerank: 5
+  url: http://kzsu.stanford.edu/prosched/
+    title: kzsu stanford 90.1 fm schedule
+    debug: Pagerank: 4
+  url: https://www.stanford.edu/group/axecomm/cgi-bin/wordpress/?page_id=59
+    title: stanford axe committee history & tradition
+    debug: Pagerank: 4
+  url: http://www.stanford.edu/group/axecomm/cgi-bin/wordpress/?page_id=371
+    title: stanford axe committee historic beat cal photos
+    debug: Pagerank: 2
+  url: http://tusb.stanford.edu/tag/stanford-football
+    title: stanford football the unofficial stanford blog
+    debug: Pagerank: 1
+  url: http://news.stanford.edu/news/2009/june3/discount-060309.html
+    title: cardinal football and lively arts offer faculty staff discounts
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/group/ttsclasses/cgi-bin/techietips/?cat=141
+    title: university it technology training techie tips calendar
+    debug: Pagerank: 0
+query: bruno 
+  url: https://plato.stanford.edu/entries/bauer/
+    title: bruno bauer stanford encyclopedia of philosophy
+    debug: Pagerank: 5
+  url: https://web.stanford.edu/~abrahao/
+    title: bruno abrahao stanford university
+    debug: Pagerank: 4
+  url: http://solar-center.stanford.edu/FAQ/Qsunasstar.html
+    title: stanford solar center ask a solar physicist faqs answer
+    debug: Pagerank: 3
+  url: http://fsi-web1.stanford.edu/sites/default/files/Bruno_and_Ewing_Elements_2006.pdf
+    title: spent nuclear fuel
+    debug: Pagerank: 3
+  url: https://ccrma.stanford.edu/people/bruno-tucunduva-ruviaro
+    title: bruno tucunduva ruviaro ccrma
+    debug: Pagerank: 2
+  url: https://music.stanford.edu/people/bruno-tucunduva-ruviaro
+    title: bruno tucunduva ruviaro department of music
+    debug: Pagerank: 2
+  url: https://ccrma.stanford.edu/~ruviaro/texts/Ruviaro_2005_Kindertotenlieder.pdf
+    title: bruno tucunduva ruviaro
+    debug: Pagerank: 1
+  url: https://searchworks.stanford.edu/view/1603097
+    title: bayesian inference and decision techniques essays in honor of bruno de finetti in searchworks
+    debug: Pagerank: 1
+  url: https://searchworks.stanford.edu/view/3495432
+    title: giordano bruno's the candle bearer an enigmatic renaissance play in searchworks
+    debug: Pagerank: 0
+query: stanford dining hall 
+  url: http://web.stanford.edu/dept/rde/dining/facebooklanding.html
+    title: stanford dining home facebook
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/contact-list
+    title: contact list stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining
+    title: dining landing page stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/graduate-and-postdoc-student-dining-faq
+    title: graduate and postdoc student dining faq stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/executive-directors-message
+    title: executive director's message stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/student-employment
+    title: student employment stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/florence-moore-dining
+    title: florence moore dining stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/dining-hall-hours
+    title: dining hall hours stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/summer-2016
+    title: summer 2016 stanford r&de
+    debug: Pagerank: 0
+  url: https://rde.stanford.edu/dining/thanksgiving-hours
+    title: thanksgiving hours stanford r&de
+    debug: Pagerank: 0
+query: computer science master 
+  url: https://www-cs.stanford.edu/academics/prospective-masters
+    title: prospective masters stanford computer science
+    debug: Pagerank: 6
+  url: http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html
+    title: ms in computer science education stanford computer science
+    debug: Pagerank: 5
+  url: https://msande.stanford.edu/
+    title: management science & engineering
+    debug: Pagerank: 6
+  url: https://www-cs.stanford.edu/admissions/deadlines
+    title: deadlines stanford computer science
+    debug: Pagerank: 5
+  url: https://www-cs.stanford.edu/academics/current-masters/faq
+    title: faq stanford computer science
+    debug: Pagerank: 5
+  url: https://www-cs.stanford.edu/admissions/visiting-cs
+    title: visiting cs stanford computer science
+    debug: Pagerank: 5
+  url: https://www-cs.stanford.edu/academics/phd/graduate-student-forms
+    title: graduate student forms stanford computer science
+    debug: Pagerank: 5
+  url: https://web.stanford.edu/dept/registrar/bulletin1112/5254.htm
+    title: master of science in computer science
+    debug: Pagerank: 3
+  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861
+    title: computer science ms degree stanford center for professional development
+    debug: Pagerank: 4
+  url: http://scpd.stanford.edu/online-engineering-courses.jsp
+    title: online engineering courses stanford university
+    debug: Pagerank: 3
+query: dining plan 
+  url: https://rde.stanford.edu/dining/undergraduate-meal-plans
+    title: undergraduate meal plans stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/mealplans
+    title: meal plans stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/sustainable-food-program
+    title: sustainable food program stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/faculty-meal-plans
+    title: faculty & staff meal plans stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans
+    title: graduate and post doc meal plans stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/gerhard-casper-dining-commons
+    title: gerhard casper dining commons stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/food-allergies
+    title: food allergies stanford r&de
+    debug: Pagerank: 3
+  url: http://www.stanford.edu/dept/rde/dining/staff_meals.htm
+    title: stanford dining faculty staff lunch plans
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/dept/registrar/bulletin0910/4860.htm
+    title: room and meal plan refunds
+    debug: Pagerank: 2
+  url: https://resed.stanford.edu/life-residences/about-meals-row/what-you-might-expect-your-row-meal-plan
+    title: what you might expect from your row meal plan residential education
+    debug: Pagerank: 2
+query: dining menus 
+  url: http://web.stanford.edu/dept/rde/dining/facebooklanding.html
+    title: stanford dining home facebook
+    debug: Pagerank: 5
+  url: http://visit.stanford.edu/activities/dining.html
+    title: dining stanford university
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans
+    title: graduate and post doc meal plans stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/arrillaga-family-dining-commons
+    title: arrillaga family dining commons stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/lakeside-dining
+    title: lakeside dining stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/wilbur-dining
+    title: wilbur dining stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/food-allergies
+    title: food allergies stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/arrillaga-nights
+    title: arrillaga nights stanford r&de
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/dept/rde/dining/pdfs/StanfordDining_hours2011-12.pdf
+    title: stanford dining
+    debug: Pagerank: 0
+  url: https://www.gsb.stanford.edu/sites/gsb/files/menu-schwab-catering.pdf
+    title: schwab catering menu
+    debug: Pagerank: 0
+query: hoover tower entrance price 
+  url: http://visit.stanford.edu/plan/guides/hoover.html
+    title: hoover tower stanford university
+    debug: Pagerank: 5
+  url: https://lbre.stanford.edu/sites/default/files/parking_and_circulation_map_0.pdf
+    title: inset 2 inset 1
+    debug: Pagerank: 6
+  url: http://visit.stanford.edu/
+    title: visitor information stanford university
+    debug: Pagerank: 6
+  url: http://visit.stanford.edu/plan/parking.html
+    title: parking stanford university
+    debug: Pagerank: 6
+  url: http://financialaid.stanford.edu/undergrad/
+    title: undergraduate basics stanford university
+    debug: Pagerank: 5
+  url: http://mcqmc2016.stanford.edu/registration.html
+    title: mcqmc 2016 stanford
+    debug: Pagerank: 3
+  url: https://commencement.stanford.edu/system/files/documents/ebrochure2016final.pdf
+    title: 125th commencement june 9 12 2016 weekend brochure
+    debug: Pagerank: 2
+  url: https://ed.stanford.edu/in-the-media/no-rich-child-left-behind
+    title: no rich child left behind commentary by sean reardon stanford graduate school of education
+    debug: Pagerank: 1
+  url: https://alumni.stanford.edu/get/page/magazine/article/?article_id=34961
+    title: stanford magazine article
+    debug: Pagerank: 0
+  url: https://cset.stanford.edu/pd/festival/activities
+    title: activities and registration center to support excellence in teaching
+    debug: Pagerank: 0
+query: florence moore address 
+  url: https://rde.stanford.edu/studenthousing/florence-moore-hall
+    title: florence moore hall stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/florence-moore-hall-0
+    title: florence moore hall stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/housing-front-desks
+    title: housing front desks stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/cooperative-houses
+    title: cooperative houses stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/kosher-dining-program-florence-moore
+    title: kosher dining program at florence moore stanford r&de
+    debug: Pagerank: 3
+  url: https://stanford.edu/dept/rde/cgi-bin/drupal/conferences/sites/default/files/pdf/Conference%20Front%20Desk%20(CFD)%20Contact%20Information.pdf
+    title: conference front desk contact information
+    debug: Pagerank: 3
+  url: https://stanfordwho.stanford.edu/SWApp/detailAction.do?key=DR074A261%20%20%20%20%20%20%20&search=zhang,%20yi&soundex=&stanfordonly=&affilfilter=everyone&filters=
+    title: public listing from stanford people search
+    debug: Pagerank: 1
+  url: http://www.stanford.edu/group/westflostaff/
+    title: stanford university west florence moore hall staff
+    debug: Pagerank: 0
+  url: https://lists.stanford.edu/mailman/listinfo/rde-flomo-chefs-table
+    title: rde flomo chefs table info page
+    debug: Pagerank: 0
+  url: https://stanfordwho.stanford.edu/SWApp/Search.do?search=jaime
+    title: public results from stanford people search
+    debug: Pagerank: 0
+query: winter quarter final schedule 
+  url: https://registrar.stanford.edu/faculty/end-term-policies/end-quarter-policy-statement
+    title: end quarter policy statement registrar's office
+    debug: Pagerank: 5
+  url: https://registrar.stanford.edu/students/final-exams/previous-years-exams/winter-quarter-exams-2015-16
+    title: winter quarter exams 2015 16 registrar's office
+    debug: Pagerank: 4
+  url: https://law.stanford.edu/education/courses/exams-and-papers/
+    title: exams and papers courses stanford law school
+    debug: Pagerank: 5
+  url: https://registrar.stanford.edu/students/final-exams/winter-quarter-exams
+    title: winter quarter exams registrar's office
+    debug: Pagerank: 4
+  url: https://undergrad.stanford.edu/planning/academic-policies/academic-calendar/end-quarter-and-finals
+    title: end of quarter and finals stanford undergrad
+    debug: Pagerank: 4
+  url: https://registrar.stanford.edu/students/final-exams/spring-quarter-exams
+    title: spring quarter exams registrar's office
+    debug: Pagerank: 4
+  url: https://www-cdn.law.stanford.edu/wp-content/uploads/2015/04/2016-2017-academic-calendar-FINAL.pdf
+    title: 2016 2017 academic calendar
+    debug: Pagerank: 4
+  url: https://law.stanford.edu/office-of-the-registrar/
+    title: registrar's office offices stanford law school
+    debug: Pagerank: 4
+  url: https://undergrad.stanford.edu/programs/bosp/explore/berlin/about-program/berlin-key-dates
+    title: berlin key dates bing overseas studies program stanford undergrad
+    debug: Pagerank: 2
+query: stanford history major requirements 
+  url: http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/history/
+    title: history stanford university
+    debug: Pagerank: 5
+  url: https://history.stanford.edu/people/faculty
+    title: faculty department of history
+    debug: Pagerank: 5
+  url: http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/artandarthistory/
+    title: art and art history stanford university
+    debug: Pagerank: 5
+  url: https://history.stanford.edu/courses
+    title: current courses department of history
+    debug: Pagerank: 5
+  url: https://majors.stanford.edu/
+    title: explore majors majors
+    debug: Pagerank: 5
+  url: https://history.stanford.edu/academics/undergraduate-program
+    title: undergraduate program department of history
+    debug: Pagerank: 5
+  url: https://classics.stanford.edu/academics/undergraduate-program
+    title: undergraduate program department of classics
+    debug: Pagerank: 5
+  url: https://history.stanford.edu/people/robert-crews
+    title: robert crews department of history
+    debug: Pagerank: 4
+  url: https://history.stanford.edu/academics/graduate-programs/phd-handbook
+    title: ph d handbook department of history
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/dept/registrar/bulletin0809/7063.htm
+    title: bachelor of arts in history
+    debug: Pagerank: 0
+query: caltrain go pass program 
+  url: https://transportation.stanford.edu/transit/free-transit-incentives/caltrain-go-pass
+    title: caltrain go pass stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/transit/free-transit-incentives/caltrain-go-pass/about-go-pass
+    title: about the caltrain go pass stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation.stanford.edu/transit/free-transit-and-incentives
+    title: free transit and incentives stanford parking & transportation services
+    debug: Pagerank: 5
+  url: https://transportation-forms.stanford.edu/pilotgopass/
+    title: pilot go pass
+    debug: Pagerank: 5
+  url: http://postdocs.stanford.edu/
+    title: postdoctoral scholars stanford university
+    debug: Pagerank: 6
+  url: https://pmplus.stanford.edu/pats/transportation/gopass-status/
+    title: go pass eligibility
+    debug: Pagerank: 3
+  url: https://transportation-forms.stanford.edu/pilotgopass/gopass-pilot-eligibility.php
+    title: eligibility for pilot programs
+    debug: Pagerank: 3
+  url: http://gsc.stanford.edu/?tag=minutes&m=200703
+    title: march 2007 graduate student council
+    debug: Pagerank: 2
+  url: http://news.stanford.edu/news/2006/july26/commute-072606.html
+    title: the roads not taken creative economical ways of getting to campus abound
+    debug: Pagerank: 2
+  url: https://sustainability-year-in-review.stanford.edu/2016/topics/communications-outreach/
+    title: communications & outreach sustainability year in review 2016
+    debug: Pagerank: 2
+query: math 
+  url: https://mathematics.stanford.edu/people/faculty-lecturers/
+    title: stanford department of mathematics faculty & lecturers
+    debug: Pagerank: 5
+  url: https://mathematics.stanford.edu/
+    title: stanford department of mathematics home
+    debug: Pagerank: 7
+  url: http://mathematics.stanford.edu/events/
+    title: stanford department of mathematics upcoming events
+    debug: Pagerank: 5
+  url: http://youcubed.stanford.edu/category/teaching-ideas/math-apps/
+    title: math apps and games archives youcubed at stanford university
+    debug: Pagerank: 5
+  url: https://mathematics.stanford.edu/academics/winter-2016/
+    title: stanford department of mathematics winter 2017
+    debug: Pagerank: 4
+  url: http://math.stanford.edu/~white/
+    title: brian white
+    debug: Pagerank: 5
+  url: https://epgyschools.stanford.edu/doe/
+    title: advanced learning by stanford university giftedandtalented com
+    debug: Pagerank: 5
+  url: http://sumac.stanford.edu/
+    title: welcome to stanford university mathematics camp stanford university mathematics camp
+    debug: Pagerank: 5
+  url: https://mathematics.stanford.edu/academics/undergraduate/math-minor/
+    title: stanford department of mathematics math minor
+    debug: Pagerank: 4
+  url: http://online.stanford.edu/course/how-learn-math-teachers
+    title: how to learn math for teachers online
+    debug: Pagerank: 3
+query: meal plan cost 
+  url: https://rde.stanford.edu/dining/undergraduate-meal-plans
+    title: undergraduate meal plans stanford r&de
+    debug: Pagerank: 5
+  url: http://exploredegrees.stanford.edu/tuitionfeesandhousing/
+    title: tuition fees and housing stanford university
+    debug: Pagerank: 5
+  url: https://summer.stanford.edu/programs/international/housing-dining/
+    title: housing & dining stanford summer
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/wilbur-dining
+    title: wilbur dining stanford r&de
+    debug: Pagerank: 3
+  url: https://summercollege.stanford.edu/gateway/understanding-bill
+    title: understanding the bill high school summer college
+    debug: Pagerank: 3
+  url: https://summercollege.stanford.edu/gateway/housing-dining
+    title: housing & dining high school summer college
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/dept/registrar/bulletin0809/4848.htm
+    title: meal plans
+    debug: Pagerank: 1
+  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf
+    title: guidebook
+    debug: Pagerank: 0
+  url: http://web.stanford.edu/dept/rde/dining/pdfs/2011DiningTour_brochure_12.8.pdf
+    title: stanford dining
+    debug: Pagerank: 0
+query: club sports teams 
+  url: http://facts.stanford.edu/campuslife/athletics
+    title: cardinal athletics stanford university facts
+    debug: Pagerank: 5
+  url: http://web.stanford.edu/group/womensclubsoccer/
+    title: stanford women's club soccer
+    debug: Pagerank: 3
+  url: http://admission.stanford.edu/student/athletics/club_sports.html
+    title: athletics & recreation stanford university
+    debug: Pagerank: 3
+  url: https://explorecourses.stanford.edu/search?q=ATHLETIC&view=catalog&academicYear=&filter-departmentcode-ATHLETIC=on&filter-coursestatus-Active=on&filter-term-Autumn=on&filter-term-Winter=on&filter-term-Spring=on&filter-term-Summer=on&page=0
+    title: stanford university explore courses
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/group/cycling/join/
+    title: join us stanford cycling team
+    debug: Pagerank: 3
+  url: https://www.stanford.edu/dept/pe/cgi-bin/downloads/clubsports/Fall%202016%20Club%20Sports%20Manual%202016-17.pdf
+    title: 2016 2017
+    debug: Pagerank: 1
+  url: https://web.stanford.edu/dept/pe/cgi-bin/wp-content/uploads/2009/06/club-sports-manual-2011-2012-copy.pdf
+    title: clubsports stanford edu
+    debug: Pagerank: 0
+  url: http://web.stanford.edu/dept/OOD/das/YAFeb/common/slideshow/slider.html
+    title: tsf student groups slideshow
+    debug: Pagerank: 0
+query: nobel laureates 
+  url: https://physics.stanford.edu/node/19
+    title: nobel prize department of physics
+    debug: Pagerank: 5
+  url: http://news.stanford.edu/nobel/
+    title: nobel laureates stanford university
+    debug: Pagerank: 4
+  url: http://facts.stanford.edu/academics/faculty
+    title: faculty stanford university facts
+    debug: Pagerank: 5
+  url: https://ed.stanford.edu/news/nobel-laureate-appointed-stanford-professor-physics-and-education
+    title: nobel laureate appointed stanford professor of physics and education stanford graduate school of education
+    debug: Pagerank: 4
+  url: https://www.gsb.stanford.edu/newsroom/school-news/scholes-business-schools-second-nobel-laureate
+    title: scholes is business school's second nobel laureate stanford graduate school of business
+    debug: Pagerank: 3
+  url: https://ed.stanford.edu/in-the-media/nobel-laureates-education-plea-revolutionize-teaching
+    title: a nobel laureate's education plea revolutionize teaching quotes carl wieman and dan schwartz stanford graduate school of education
+    debug: Pagerank: 2
+  url: https://searchworks.stanford.edu/view/7203362
+    title: nobel faces a gallery of nobel prize winners in searchworks
+    debug: Pagerank: 1
+  url: http://news.stanford.edu/2015/07/21/laureates-climate-change-072015/
+    title: megacities must address climate change stanford nobel laureate says
+    debug: Pagerank: 1
+  url: https://med.stanford.edu/news/all-news/2013/10/other-2013-nobel-laureates-in-physiology-or-medicine-have-strong-stanford-ties.html
+    title: other 2013 nobel laureates in physiology or medicine have strong stanford ties news center stanford medicine
+    debug: Pagerank: 0
+  url: https://searchworks.stanford.edu/view/4429962
+    title: the nobel laureates how the world's greatest economic minds shaped modern thought in searchworks
+    debug: Pagerank: 0
+query: stanford cs courses 
+  url: http://exploredegrees.stanford.edu/schoolofengineering/computerscience/
+    title: computer science stanford university
+    debug: Pagerank: 5
+  url: https://www-cs.stanford.edu/academics/prospective-masters
+    title: prospective masters stanford computer science
+    debug: Pagerank: 6
+  url: https://explorecourses.stanford.edu/
+    title: stanford university explore courses
+    debug: Pagerank: 6
+  url: https://cs.stanford.edu/academics/courses
+    title: courses stanford computer science
+    debug: Pagerank: 5
+  url: http://cs221.stanford.edu/
+    title: cs221 artificial intelligence principles and techniques
+    debug: Pagerank: 5
+  url: https://web.stanford.edu/group/ughb/cgi-bin/handbook/index.php/Approved_Courses
+    title: approved courses undergraduate engineering handbook
+    debug: Pagerank: 4
+  url: http://online.stanford.edu/course/computer-science-101-Summer-2014
+    title: computer science 101 online
+    debug: Pagerank: 4
+  url: https://see.stanford.edu/Course/CS106A
+    title: stanford engineering everywhere cs106a programming methodology
+    debug: Pagerank: 3
+  url: http://cs.stanford.edu/courses/schedules/2014-2015.spring.php
+    title: course schedule spring 2014 2015
+    debug: Pagerank: 0
+  url: http://cs.stanford.edu/courses/schedules/2015-2016.spring.php
+    title: course schedule spring 2015 2016
+    debug: Pagerank: 0
+query: how many meal plan dollars do i have left 
+  url: https://rde.stanford.edu/dining/undergraduate-meal-plans
+    title: undergraduate meal plans stanford r&de
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions
+    title: meal plan frequently asked questions stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/mealplans
+    title: meal plans stanford r&de
+    debug: Pagerank: 5
+  url: https://statistics.stanford.edu/sites/default/files/Sandstone-and-Tile_Old-Roble.pdf
+    title: photo enlarged by 191
+    debug: Pagerank: 4
+  url: https://alumni.stanford.edu/get/page/magazine/article/?article_id=72888
+    title: stanford magazine article
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/group/axecomm/cgi-bin/wordpress/wp-content/uploads/2015/08/handbook.final_.pdf
+    title: handbook of stanford university
+    debug: Pagerank: 3
+  url: https://alumni.stanford.edu/get/page/magazine/article/?article_id=74802
+    title: stanford magazine article
+    debug: Pagerank: 3
+  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf
+    title: guidebook
+    debug: Pagerank: 0
+  url: http://gsc.stanford.edu/gsc-meeting-2008-11-05/
+    title: gsc meeting 2008 11 05 graduate student council
+    debug: Pagerank: 0
+query: stanford judo 
+  url: https://web.stanford.edu/group/jujitsu/Class_Information/history.html
+    title: stanford jujitsu history
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/group/jujitsu/Zen_Budokai/biographies.html
+    title: stanford jujitsu biographies
+    debug: Pagerank: 3
+  url: http://web.stanford.edu/group/judo/
+    title: stanford judo
+    debug: Pagerank: 2
+  url: https://arts.stanford.edu/event/65865/
+    title: world premiere ippon documentary stanford arts
+    debug: Pagerank: 2
+  url: http://stanford.edu/group/jujitsu/documents/judging%20guidelines%20-%20rev%201.pdf
+    title: stanford jujitsu club rev 1 1 jul 2014 judging guidelines for belt promotion exams the following guidelines govern belt promoti
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/group/judo/calendar.html
+    title: contact stanford judo
+    debug: Pagerank: 1
+  url: https://web.stanford.edu/group/judo/class.html
+    title: about classes stanford judo
+    debug: Pagerank: 1
+  url: https://searchworks.stanford.edu/view/1541451
+    title: verbal judo words for street survival in searchworks
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/dept/pe/cgi-bin/downloads/facility/ScheduleStudio.pdf
+    title: acsr studio winter quarter 2013
+    debug: Pagerank: 0
+query: stanford commencement 
+  url: https://commencement.stanford.edu/
+    title: commencement weekend
+    debug: Pagerank: 5
+  url: https://commencement.stanford.edu/plan-your-visit/parking
+    title: weekend parking and transportation commencement weekend
+    debug: Pagerank: 5
+  url: https://www.gsb.stanford.edu/visit/commencement
+    title: commencement stanford graduate school of business
+    debug: Pagerank: 4
+  url: https://commencement.stanford.edu/events/schedule
+    title: schedule commencement weekend
+    debug: Pagerank: 4
+  url: https://commencement.stanford.edu/events/diploma
+    title: diploma ceremonies commencement weekend
+    debug: Pagerank: 4
+  url: https://commencement.stanford.edu/info/parents
+    title: information for parents commencement weekend
+    debug: Pagerank: 4
+  url: https://commencement.stanford.edu/info/students/instructions-grads
+    title: ceremony instructions for advanced degree candidates commencement weekend
+    debug: Pagerank: 3
+  url: https://commencement.stanford.edu/events/diploma/law
+    title: school of law commencement weekend
+    debug: Pagerank: 2
+  url: http://news.stanford.edu/2016/01/29/burns-commencement-speaker-012916/
+    title: filmmaker ken burns will be stanford's 2016 commencement speaker
+    debug: Pagerank: 1
+query: stanford dining holiday hours 
+  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/
+    title: residential & dining enterprises calendar
+    debug: Pagerank: 5
+  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/taxonomy/term/4
+    title: residential & dining enterprises calendar
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/locations-hours
+    title: locations & hours stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/events-calendar
+    title: events & calendar stanford r&de
+    debug: Pagerank: 4
+  url: https://www.gsb.stanford.edu/visit/dining
+    title: dining stanford graduate school of business
+    debug: Pagerank: 4
+  url: http://facultyclub.stanford.edu/Default.aspx?p=DynamicModule&pageid=339269&ssid=238704&vnf=1
+    title: hours the stanford faculty club
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/dining/winter-hours-2017
+    title: winter hours 2017 stanford r&de
+    debug: Pagerank: 1
+  url: https://rde.stanford.edu/dining/thanksgiving-hours-2015
+    title: thanksgiving hours 2015 stanford r&de
+    debug: Pagerank: 0
+  url: https://dining.stanford.edu/dining-calendar-dates
+    title: residential & dining enterprises calendar
+    debug: Pagerank: 0
+  url: http://news.stanford.edu/news/2006/december6/close-120606.html
+    title: operations services to be closed or scaled back winter break
+    debug: Pagerank: 0
+query: wilbur dinner 
+  url: https://rde.stanford.edu/dining/undergraduate-meal-plans
+    title: undergraduate meal plans stanford r&de
+    debug: Pagerank: 5
+  url: http://visit.stanford.edu/activities/dining.html
+    title: dining stanford university
+    debug: Pagerank: 5
+  url: http://web.stanford.edu/dept/rde/dining/facebooklanding.html
+    title: stanford dining home facebook
+    debug: Pagerank: 5
+  url: https://rde.stanford.edu/dining/wilbur-dining
+    title: wilbur dining stanford r&de
+    debug: Pagerank: 3
+  url: https://rde.stanford.edu/dining/dining-hall-hours
+    title: dining hall hours stanford r&de
+    debug: Pagerank: 3
+  url: http://unofficial.stanford.edu/?page_id=1683
+    title: ch 3 housing the unofficial guide to stanford online
+    debug: Pagerank: 3
+  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/event/dining-halls-close-winter-break-0
+    title: residential & dining enterprises calendar
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/dept/rde/dining/pdfs/RFRA_2010Guidebook.pdf
+    title: guidebook
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/SD_winter_hours_2014_web.pdf
+    title: r&de stanford dining i winter closure opening
+    debug: Pagerank: 0
+  url: https://rde.stanford.edu/dining/chef-inspired-seasonal-kitchen-table
+    title: chef inspired seasonal kitchen table stanford r&de
+    debug: Pagerank: 0
+query: grade replacement policy 
+  url: https://undergrad.stanford.edu/planning/academic-policies/grading-policies
+    title: grades and grading stanford undergrad
+    debug: Pagerank: 5
+  url: https://cepa.stanford.edu/sites/default/files/wp16-03-v201601.pdf
+    title: teacher turnover teacher quality and student achievement in dcps
+    debug: Pagerank: 3
+  url: https://vptl.stanford.edu/teaching-and-learning-innovation/learning-environments/virtual-learning-environments/canvas
+    title: canvas vptl
+    debug: Pagerank: 5
+  url: https://edpolicy.stanford.edu/sites/default/files/publications/guidancedocumentmaximizing-learning-investments.pdf
+    title: maximizing the use of new state professional learning investments
+    debug: Pagerank: 3
+  url: https://registrar.stanford.edu/students/incomplete-changed-and-repeat-grades/repeated-courses
+    title: repeated courses registrar's office
+    debug: Pagerank: 3
+  url: https://fsh.stanford.edu/brochures/ZIP.pdf
+    title: zero interest program
+    debug: Pagerank: 3
+  url: https://registrar.stanford.edu/students/certifications-and-verifications/notarized-documents
+    title: notarized documents registrar's office
+    debug: Pagerank: 3
+  url: http://hanushek.stanford.edu/sites/default/files/publications/Hanushek%202009%20EducEconomics%2017(3).pdf
+    title: education economics school policy implications of recent research for human capital investments in south asia and other develop
+    debug: Pagerank: 2
+  url: http://cepa.stanford.edu/news/tenure-or-turnover
+    title: tenure or turnover center for education policy analysis
+    debug: Pagerank: 2
+query: scpd lecture videos 
+  url: http://scpd.stanford.edu/free-stuff/live-webinars-lectures
+    title: course search results stanford center for professional development
+    debug: Pagerank: 5
+  url: http://scpd.stanford.edu/search/
+    title: search for courses stanford center for professional development
+    debug: Pagerank: 5
+  url: http://scpd.stanford.edu/free-learning/webinars/stanford-engineering-hero-lectures/stanford-engineering-hero-lecture-0
+    title: stanford engineering hero lecture kenneth arrow stanford center for professional development
+    debug: Pagerank: 4
+  url: http://web.stanford.edu/class/cs246/faq.html
+    title: stanford cs246 faq
+    debug: Pagerank: 4
+  url: http://scpd.stanford.edu/free-learning/webinars/donald-knuth-lectures/cs144c-classroom-lecture-about-disk-storage-and-b-0
+    title: cs144c classroom lecture about disk storage and b trees stanford center for professional development
+    debug: Pagerank: 4
+  url: http://scpd.stanford.edu/search/publicCourseAdvancedSearch.do?method=searchNoCN&cspIndex=true&showInternal=false&quickSearch=false&isPageDisplayed=true&courseSearch.courseDescriptionKeyword=&courseSearch.sectionSemesterString=0&courseSearch.deliveryMethodString=Any+Delivery+Option&courseSearch.courseCategoryStringArray=0&courseSearch.programStreamStringArray=0&courseSearch.programAreaStringArray=11221&courseSearch.sectionAccreditingAssociationStringArray=0&courseSearch.sectionInstructorName=&courseSearch.sectionDayOfWeekStringArray=0&courseSearch.sectionStartTimeStringArray=0&courseSearch.sectionStartMonthStringArray=0&courseSearch.campusStringArray=0
+    title: course search results stanford center for professional development
+    debug: Pagerank: 2
+  url: http://scpd.stanford.edu/search/publicCourseAdvancedSearch.do?method=searchNoCN&cspIndex=true&showInternal=false&quickSearch=false&isPageDisplayed=true&courseSearch.programStreamStringArray=0&courseSearch.programAreaStringArray=11221&courseSearch.sectionAccreditingAssociationStringArray=0&courseSearch.sectionInstructorName=&courseSearch.sectionDayOfWeekStringArray=0&courseSearch.sectionStartTimeStringArray=0&courseSearch.sectionStartMonthStringArray=0&courseSearch.campusStringArray=0
+    title: course search results stanford center for professional development
+    debug: Pagerank: 2
+  url: http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=11681
+    title: cme200 linear algebra with application to engineering computations stanford center for professional development
+    debug: Pagerank: 1
+  url: http://scpd.stanford.edu/google/videos/index.php
+    title: free online videos welcome google employees
+    debug: Pagerank: 0
+  url: http://scpd.stanford.edu/university-online-courses.jsp?gclid=CKnw4Nuaj64CFSwDQAodlCz7gg
+    title: university online courses stanford university
+    debug: Pagerank: 0
+query: harry potter 
+  url: http://fairuse.stanford.edu/2008/09/09/harry_potter_lexicon_court_say/
+    title: harry potter lexicon court says not a fair use stanford copyright and fair use center
+    debug: Pagerank: 4
+  url: https://sparq.stanford.edu/solutions/harry-potter-and-elixir-empathy
+    title: harry potter and the elixir of empathy sparq
+    debug: Pagerank: 3
+  url: https://searchworks.stanford.edu/view/11700990
+    title: harry potter and the cursed child parts one and two in searchworks
+    debug: Pagerank: 1
+  url: https://searchworks.stanford.edu/view/9251723
+    title: harry potter and the deathly hallows part 2 electronic resource in searchworks
+    debug: Pagerank: 1
+  url: https://searchworks.stanford.edu/view/7705155
+    title: critical perspectives on harry potter in searchworks
+    debug: Pagerank: 0
+  url: https://searchworks.stanford.edu/view/5329328
+    title: the ivory tower and harry potter perspectives on a literary phenomenon in searchworks
+    debug: Pagerank: 0
+  url: https://searchworks.stanford.edu/view/5761883
+    title: harry potter and philosophy if aristotle ran hogwarts in searchworks
+    debug: Pagerank: 0
+  url: https://searchworks.stanford.edu/view/10196866
+    title: harry potter and the millennials research methods and the politics of the muggle generation in searchworks
+    debug: Pagerank: 0
+  url: https://searchworks.stanford.edu/view/9175848
+    title: the ultimate harry potter and philosophy hogwarts for muggles in searchworks
+    debug: Pagerank: 0
+  url: http://events.stanford.edu/events/613/61365/
+    title: stanford bookstore harry potter midnight release party
+    debug: Pagerank: 0
+query: bechtel international center hours 
+  url: https://bechtel.stanford.edu/immigration
+    title: immigration bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/about-us/hours
+    title: hours bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/
+    title: bechtel international center student affairs
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/departments
+    title: for departments bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/about-us/international-student-identification-cards-isic-and-passport-photos
+    title: international student identification cards isic and passport photos bechtel international center
+    debug: Pagerank: 5
+  url: https://bechtel.stanford.edu/coming-stanford/new-student-information/removing-enrollment-hold
+    title: removing the enrollment hold bechtel international center
+    debug: Pagerank: 4
+  url: https://bechtel.stanford.edu/immigration/visa-types/f-1j-1-student-visas/leave-absence
+    title: leave of absence bechtel international center
+    debug: Pagerank: 3
+  url: https://bechtel.stanford.edu/immigration/employment/f-1-employment
+    title: f 1 employment bechtel international center
+    debug: Pagerank: 3
+query: memorial church 
+  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/history/
+    title: office for religious life about memorial church
+    debug: Pagerank: 5
+  url: https://religiouslife.stanford.edu/
+    title: home office for religious life
+    debug: Pagerank: 5
+  url: https://live.stanford.edu/plan-your-visit/venues/memorial-church
+    title: memorial church stanford live
+    debug: Pagerank: 4
+  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/memorial-services/
+    title: memorial services office for religious life
+    debug: Pagerank: 4
+  url: http://125.stanford.edu/then-and-now/memorial-church/
+    title: memorial church stanford 125
+    debug: Pagerank: 4
+  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/weddings/wedding-faqs/
+    title: wedding faqs office for religious life
+    debug: Pagerank: 3
+  url: https://music.stanford.edu/venues/memorial-church/memorial-church-accessibility
+    title: accessibility memorial church department of music
+    debug: Pagerank: 3
+  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/holiday-services/
+    title: office for religious life christmas services
+    debug: Pagerank: 3
+  url: https://events.stanford.edu/events/617/61741
+    title: om under the dome yoga in memorial church
+    debug: Pagerank: 2
+  url: https://music.stanford.edu/performing-group/memorial-church-choir
+    title: memorial church choir department of music
+    debug: Pagerank: 2
+query: stanford credits 
+  url: http://exploredegrees.stanford.edu/undergraduatedegreesandprograms/
+    title: undergraduate degrees and programs stanford university
+    debug: Pagerank: 6
+  url: https://summer.stanford.edu/faqs/category/curriculum/
+    title: curriculum stanford summer
+    debug: Pagerank: 5
+  url: https://summer.stanford.edu/academics/credit-evaluation/
+    title: credit & evaluation stanford summer
+    debug: Pagerank: 5
+  url: http://exploredegrees.stanford.edu/undergraduatemajorunitreq/
+    title: undergraduate major unit requirements stanford university
+    debug: Pagerank: 5
+  url: https://registrar.stanford.edu/students/graduation/undergraduate-degree-requirements
+    title: undergraduate degree requirements registrar's office
+    debug: Pagerank: 5
+  url: https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ap-credit-chart
+    title: ap credit chart registrar's office
+    debug: Pagerank: 5
+  url: https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum
+    title: personalized curriculum stanford graduate school of business
+    debug: Pagerank: 4
+  url: https://registrar.stanford.edu/students/transfer-credit/advanced-placement
+    title: advanced placement registrar's office
+    debug: Pagerank: 4
+  url: https://biology.stanford.edu/academics/undergraduate-program/transfer-credit
+    title: transfer credit department of biology
+    debug: Pagerank: 3
+  url: https://undergrad.stanford.edu/advising/student-guides/can-i-get-credit-ap-ib-or-transfer-courses
+    title: can i get credit for ap ib or transfer courses stanford undergrad
+    debug: Pagerank: 2
+query: weight loss 
+  url: https://web.stanford.edu/group/hopes/cgi-bin/hopes_test/weight-loss-demystifying-a-medical-mystery/
+    title: weight loss demystifying a medical mystery hopes
+    debug: Pagerank: 3
+  url: http://med.stanford.edu/nutrition/nutrition-studies-group/completed-studies/sleep-and-weight-loss.html
+    title: effects of adequate sleep on weight loss nutrition studies research group stanford medicine
+    debug: Pagerank: 2
+  url: http://med.stanford.edu/nutrition/nutrition-studies-group/completed-studies/comparative-weight-loss.html
+    title: comparative weight loss study nutrition studies research group stanford medicine
+    debug: Pagerank: 2
+  url: https://med.stanford.edu/clinicaltrials/trials/NCT01661426
+    title: weight loss diet study low carb vs low fat stanford university school of medicine
+    debug: Pagerank: 2
+  url: http://whatmeds.stanford.edu/medications/bupropion.html
+    title: psychiatric medications the medications what meds stanford university school of medicine
+    debug: Pagerank: 1
+  url: http://scopeblog.stanford.edu/2011/08/15/study-shows-link-between-maternal-iv-fluids-and-weight-loss-in-newborns/
+    title: study shows link between maternal iv fluids and weight loss in newborns scope blog
+    debug: Pagerank: 0
+  url: https://med.stanford.edu/news/all-news/2010/12/making-weight-loss-work.html
+    title: making weight loss work news center stanford medicine
+    debug: Pagerank: 0
+  url: http://events.stanford.edu/events/530/53001/
+    title: prevent online weight loss program for diabetes prevention
+    debug: Pagerank: 0
+  url: https://web.stanford.edu/dept/radiology/radiologysite/site182.html
+    title: 26 year old male presents with night sweats weight loss and fever 2 of 3
+    debug: Pagerank: 0
+query: nlp group stanford 
+  url: http://nlp.stanford.edu/software/
+    title: software the stanford natural language processing group
+    debug: Pagerank: 6
+  url: http://nlp.stanford.edu/software/tagger.shtml
+    title: the stanford natural language processing group
+    debug: Pagerank: 6
+  url: http://nlp.stanford.edu/
+    title: the stanford natural language processing group
+    debug: Pagerank: 6
+  url: http://nlp.stanford.edu/projects/chinese-nlp.shtml
+    title: the stanford natural language processing group
+    debug: Pagerank: 5
+  url: http://nlp.stanford.edu/people/
+    title: people the stanford natural language processing group
+    debug: Pagerank: 5
+  url: http://nlp.stanford.edu/read/
+    title: the stanford natural language processing group
+    debug: Pagerank: 5
+  url: http://nlp.stanford.edu/blog/in-their-own-words-the-2016-graduates-of-the-stanford-nlp-group/
+    title: in their own words the 2016 graduates of the stanford nlp group the stanford natural language processing group
+    debug: Pagerank: 4
+  url: http://nlp.stanford.edu/software/regexner.html
+    title: the stanford natural language processing group
+    debug: Pagerank: 4
+  url: http://nlp.stanford.edu/projects/arabic.shtml
+    title: the stanford natural language processing group
+    debug: Pagerank: 3
+query: scpd tuition 
+  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load
+    title: artificial intelligence graduate certificate stanford center for professional development
+    debug: Pagerank: 5
+  url: https://registrar.stanford.edu/students/tuition-and-fees/related-links-and-previous-years-tuition/tuition-and-fees-2015-16/summer
+    title: summer quarter tuition 2015 16 registrar's office
+    debug: Pagerank: 4
+  url: https://ed.stanford.edu/admissions/financing/masters
+    title: financing your education master's programs stanford graduate school of education
+    debug: Pagerank: 4
+  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861
+    title: computer science ms degree stanford center for professional development
+    debug: Pagerank: 4
+  url: http://scpd.stanford.edu/electrical-engineering/
+    title: certificates and degrees search results stanford center for professional development
+    debug: Pagerank: 4
+  url: http://scpd.stanford.edu/sites/default/files/honorscorphandbook.pdf
+    title: honors cooperative program student handbook
+    debug: Pagerank: 2
+  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1163094
+    title: statistics ms degree stanford center for professional development
+    debug: Pagerank: 3
+  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240186
+    title: biomedical informatics ms degree stanford center for professional development
+    debug: Pagerank: 3
+query: vaden hours 
+  url: https://vaden.stanford.edu/about/hours
+    title: hours vaden health center
+    debug: Pagerank: 5
+  url: https://vaden.stanford.edu/pharmacy
+    title: pharmacy vaden health center
+    debug: Pagerank: 5
+  url: https://vaden.stanford.edu/get-help-now/immediate-medical-help
+    title: immediate medical help vaden health center
+    debug: Pagerank: 5
+  url: https://vaden.stanford.edu/health-resources/mental-health
+    title: mental health vaden health center
+    debug: Pagerank: 5
+  url: https://vaden.stanford.edu/caps-and-wellness/assisting-students-distress
+    title: assisting students in distress vaden health center
+    debug: Pagerank: 5
+  url: https://vaden.stanford.edu/people/pharmacy
+    title: pharmacy vaden health center
+    debug: Pagerank: 4
+  url: https://vaden.stanford.edu/make-appointment/medical-services
+    title: medical services vaden health center
+    debug: Pagerank: 4
+  url: https://vaden.stanford.edu/make-appointment/medical-services/testing-unintended-drug-ingestion
+    title: testing for unintended drug ingestion vaden health center
+    debug: Pagerank: 3
+  url: https://vaden.stanford.edu/make-appointment/medical-services/lab-and-x-ray-services
+    title: lab and x ray services vaden health center
+    debug: Pagerank: 3
+  url: https://vaden.stanford.edu/sites/default/files/vaden-unintended-drug-testing-flier-100114-final-high.pdf
+    title: testing for unintended drug ingestion
+    debug: Pagerank: 0
+query: sublet student hours 
+  url: https://rde.stanford.edu/studenthousing/sublicensing-places4students-sublet-advertisements
+    title: sublicensing places4students sublet advertisements stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/community-housing
+    title: community housing stanford r&de
+    debug: Pagerank: 4
+  url: https://law.stanford.edu/education/only-at-sls/global-initiative/foreign-legal-studies-program/bucerius-law-school-bls-hamburg-germany/
+    title: bucerius law school bls hamburg germany a quarter abroad the foreign legal study program stanford law school
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/continuous-assignments
+    title: continuous assignments stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/lock-outs-sublicensed-apartments
+    title: lock outs in sublicensed apartments stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/sublicense
+    title: sublicensing in graduate housing stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/housing-front-desk-gerhard-casper-quad
+    title: gerhard casper quad stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/undergraduate-housing-newsletter-march-2016
+    title: undergraduate housing newsletter march 2016 stanford r&de
+    debug: Pagerank: 2
+  url: http://web.stanford.edu/dept/news/stanfordtoday/ed/9801/9801ncf2.html
+    title: 9801ncf2 html
+    debug: Pagerank: 0
+  url: http://law.stanford.edu/wp-content/uploads/sites/default/files/child-page/183003/doc/slspublic/bucerius-2012.pdf
+    title: bucerius law school hamburg germany bls
+    debug: Pagerank: 0
+query: christopher manning 
+  url: http://nlp.stanford.edu/manning/papers/
+    title: christopher manning papers and publications
+    debug: Pagerank: 4
+  url: http://nlp.stanford.edu/manning/
+    title: christopher manning stanford nlp
+    debug: Pagerank: 5
+  url: http://nlp.stanford.edu/IR-book/
+    title: introduction to information retrieval
+    debug: Pagerank: 6
+  url: https://explorecourses.stanford.edu/instructor/manning
+    title: christopher d manning
+    debug: Pagerank: 4
+  url: http://stanford.edu/~lmthang/
+    title: thang luong's academic page
+    debug: Pagerank: 4
+  url: http://nlp.stanford.edu/manning/tex/
+    title: christopher manning's la tex page
+    debug: Pagerank: 4
+  url: http://nlp.stanford.edu/manning/courses/ling289/logistic.pdf
+    title: logistic regression with r
+    debug: Pagerank: 4
+  url: https://iriss.stanford.edu/people/christopher-manning
+    title: christopher manning institute for research in the social sciences
+    debug: Pagerank: 1
+  url: http://nlp.stanford.edu/~manning/xyzzy/Manning_Christopher_DeepNLP.pptx
+    title: information extraction
+    debug: Pagerank: 0
+  url: http://online.stanford.edu/instructors/christopher-manning
+    title: christopher manning online
+    debug: Pagerank: 0
+query: stanford wilbur front desk 
+  url: https://rde.stanford.edu/studenthousing/wilbur-hall-0
+    title: wilbur hall stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/help
+    title: help stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/frontdesk/governors-corner
+    title: governor's corner stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/housing-front-desks
+    title: housing front desks stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/lagunita-court-0
+    title: lagunita court stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/munger-graduate-residence
+    title: munger graduate residence stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/stern-hall
+    title: stern hall stanford r&de
+    debug: Pagerank: 4
+  url: https://rde.stanford.edu/studenthousing/meet-staff
+    title: meet the staff stanford r&de
+    debug: Pagerank: 4
+  url: https://undergrad.stanford.edu/advising/approaching/approaching-stanford/moving-farm/getting-campus
+    title: getting to campus stanford undergrad
+    debug: Pagerank: 2
+  url: https://resed.stanford.edu/residences/find-house/soto
+    title: soto residential education
+    debug: Pagerank: 2
+query: computational linguistics research 
+  url: https://linguistics.stanford.edu/research/computational-linguistics
+    title: computational linguistics department of linguistics
+    debug: Pagerank: 5
+  url: https://linguistics.stanford.edu/
+    title: department of linguistics
+    debug: Pagerank: 6
+  url: https://linguistics.stanford.edu/people/graduate-students
+    title: graduate students department of linguistics
+    debug: Pagerank: 5
+  url: http://web.stanford.edu/~jurafsky/
+    title: dan jurafsky home page
+    debug: Pagerank: 6
+  url: https://linguistics.stanford.edu/research/syntax
+    title: syntax department of linguistics
+    debug: Pagerank: 5
+  url: https://linguistics.stanford.edu/research/sociolinguistics
+    title: sociolinguistics department of linguistics
+    debug: Pagerank: 5
+  url: http://nlp.stanford.edu/pubs/vogeljurafsky12.pdf
+    title: he said she said gender in the acl anthology
+    debug: Pagerank: 4
+  url: https://web.stanford.edu/~gdoyle/papers/doyle-2014-art-talk.pdf
+    title: computational linguistics and learning from big data
+    debug: Pagerank: 3
+  url: http://lingo.stanford.edu/courses/05/ge/ftp/overview.pdf
+    title: topics in computational linguistics grammar engineering
+    debug: Pagerank: 1
+  url: https://symsys.stanford.edu/viewing/htmldocument/22074
+    title: symbolic systems stanford phd studentships university of edinburgh
+    debug: Pagerank: 0
+query: cs276 slides 
+  url: http://nlp.stanford.edu/IR-book/
+    title: introduction to information retrieval
+    debug: Pagerank: 6
+  url: http://cs276.stanford.edu/
+    title: cs 276 information retrieval and web search
+    debug: Pagerank: 5
+  url: http://web.stanford.edu/class/cs276/handouts/
+    title: index of class cs276 handouts
+    debug: Pagerank: 2
+  url: http://nlp.stanford.edu/IR-book/newslides.html
+    title: introduction to information retrieval slides
+    debug: Pagerank: 2
+  url: http://web.stanford.edu/class/cs276/handouts/lecture14-SVMs.ppt
+    title: title
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/class/cs276/handouts/lecture12-textcat.ppt
+    title: title
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/class/cs276/handouts/lecture8-evaluation.ppt
+    title: title
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/class/cs276/handouts/lecture6-tfidf.ppt
+    title: title
+    debug: Pagerank: 2
+  url: https://web.stanford.edu/class/cs276/handouts/lecture1-intro-handout-1-per.pdf
+    title: information retrieval
+    debug: Pagerank: 2
+  url: http://www-cs-students.stanford.edu/~dalewis/classificoogle.pdf
+    title: classificoogle
+    debug: Pagerank: 0
+query: stats 305 
+  url: https://statistics.stanford.edu/courses-autumn-2016
+    title: courses autumn 2016 department of statistics
+    debug: Pagerank: 5
+  url: https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&q=STATS305
+    title: stanford university explore courses
+    debug: Pagerank: 3
+  url: http://statweb.stanford.edu/~owen/courses/305a/305MinNotesMarked.pdf
+    title: stats 305 notes1
+    debug: Pagerank: 2
+  url: https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=STATS+305%3A+Introduction+to+Statistical+Modeling&collapse=
+    title: stanford university explore courses
+    debug: Pagerank: 2
+  url: http://explorecourses.stanford.edu/print;jsessionid=ptwt9p5iz7yx1bta520e9tklo?q=STATS+200&descriptions=on&catalog=
+    title: stanford university explore courses
+    debug: Pagerank: 1
+  url: https://explorecourses.stanford.edu/search;jsessionid=q0d9f1xahjzr11vhp4b6nkqly?q=STATS+305B%3A+Methods+for+Applied+Statistics+I&view=timeschedule&catalog=&page=0&filter-coursestatus-Active=on&collapse=
+    title: stanford university explore courses
+    debug: Pagerank: 1
+  url: https://statistics.stanford.edu/courses/stats-20288
+    title: current courses department of statistics
+    debug: Pagerank: 0
+  url: https://explorecourses.stanford.edu/search?page=6&q=STATS&filter-coursestatus-Active=on&view=catalog&academicYear=20112012&filter-departmentcode-STATS=on
+    title: stanford university explore courses
+    debug: Pagerank: 0
+  url: http://statweb.stanford.edu/~tibs/sta305.html
+    title: stat 305 home page
+    debug: Pagerank: 0

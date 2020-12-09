@@ -1,0 +1,41 @@
+
+// Verilog stimulus file.
+// Please do not create a module in this file.
+
+
+// Default verilog stimulus. 
+
+initial
+$monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY);
+
+always@(Clk)
+   #25 Clk<=~Clk;
+
+initial
+begin
+
+   A[7:0] = 8'b00000000; B[7:0] = 8'b00000000; C = 1'b0; Clk = 1'b0;
+	
+   #50 A[7:0] = 8'b01111110; B[7:0] = 8'b11100111; C = 1'b0;
+   $monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY);
+
+   #50 A[7:0] = 8'b11111111; B[7:0] = 8'b00000000; C = 1'b1;
+   $monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY);
+
+   #50 A[7:0] = 8'b10101010; B[7:0] = 8'b01010101; C = 1'b0;
+   $monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY);
+
+   #50 A[7:0] = 8'b10101010; B[7:0] = 8'b01010101; C = 1'b1;
+   $monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY);
+
+   #50 A[7:0] = 8'b11001100; B[7:0] = 8'b00110011; C = 1'b0;
+   $monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY);
+
+   #50 A[7:0] = 8'b11001100; B[7:0] = 8'b00110011; C = 1'b1;
+   $monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY);
+	
+   #50
+   $monitor($time," A=%b, B=%b, C=%b, Clk=%b, SUM=%b, CARRY=%b", A, B, C, Clk, SUM, CARRY); 
+
+   $finish;
+end
